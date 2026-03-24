@@ -4,7 +4,8 @@
       "Bash(python3 -c \":*)",
       "Bash(npm create:*)",
       "Bash(npm install:*)",
-      "Bash(echo \"EXIT: $?\")"
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(\"/Users/webbeezwork/Desktop/Open Data/client/vite.config.js\":*)"
     ]
   }
 }
